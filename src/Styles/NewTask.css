@@ -1,0 +1,14 @@
+.new-task-wrapper {
+    padding-bottom: 20px;
+}
+
+.text-box {
+    width: 60%;
+    height: 30px;
+}
+
+.add-button {
+    height: 35px;
+    width: 25%;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.task-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+#check {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#xmark {
+    margin-left: auto;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.task-button {
+    cursor: pointer;
+}
